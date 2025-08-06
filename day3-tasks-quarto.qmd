@@ -3,4 +3,16 @@ title: "Day 3 Tasks"
 author: "Henry Oliver"
 format: html
 ---
+```{r}
+library(tidyverse)
+library(ARTofR)
+library(deSolve)
+```
 
+
+```{r}
+
+vec_a <- c(1, 6)
+vec_b <- c(2, 4)
+
+```
